@@ -1,0 +1,6 @@
+[submodule "Cassowary"]
+	path = Cassowary
+	url = https://github.com/HouptLab/Cassowary
+[submodule "MatchRep"]
+	path = MatchRep
+	url = https://github.com/HouptLab/MatchRep
