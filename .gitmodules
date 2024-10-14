@@ -1,6 +1,9 @@
-[submodule "Cassowary"]
-	path = Cassowary
-	url = https://github.com/HouptLab/Cassowary
-[submodule "MatchRep"]
-	path = MatchRep
-	url = https://github.com/HouptLab/MatchRep
+[submodule "Bartender"]
+	path = Bartender
+	url = https://github.com/HouptLab/Bartender
+[submodule "BarTab"]
+	path = BarTab
+	url = https://github.com/HouptLab/BarTab
+[submodule "PointOfScale"]
+	path = PointOfScale
+	url = https://github.com/HouptLab/PointOfScale
